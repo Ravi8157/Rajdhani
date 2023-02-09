@@ -23,3 +23,13 @@
 <link rel="stylesheet" href="css/flaticon.css">
 <link rel="stylesheet" href="css/icomoon.css">
 <link rel="stylesheet" href="css/style.css">
+
+<!-- <style>
+    .ftco-navbar-light {
+        background: #200E32 !important;
+    }
+
+    .ftco-navbar-light.scrolled {
+        background: #200E32 !important;
+    }
+</style> -->
