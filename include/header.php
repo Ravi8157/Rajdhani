@@ -5,8 +5,6 @@ $components = explode('/', $path);
 $file_name = $components[3];
 ?>
 
-
-
 <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
     <div class="container">
         <!-- <a class="navbar-brand" href="index.php"><span class="flaticon-pizza-1 mr-1"></span>Pizza<br><small>Delicous</small></a> -->
